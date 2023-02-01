@@ -15,9 +15,10 @@ namespace basico.tipo_datos
         {
             
             this.saludo = v1;
-            String sNombre = this.saludo + "Juan Perez";
+            String sNombre = this.saludo + "bienvenidos a cortana";
             Console
                 .WriteLine(sNombre);
+            Console.ReadLine();
 
             
            
