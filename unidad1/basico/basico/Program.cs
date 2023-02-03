@@ -1,4 +1,5 @@
-﻿using basico.tipo_datos;
+﻿using basico.estructuras_control;
+using basico.tipo_datos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,8 +17,11 @@ namespace basico
             //Tipos01 t03 = new Tipos01("hola buenos dias");
             //Tipos01 t04 = new Tipos01("hola buenas tardes");
             //Tipos01 t05 = new Tipos01("hola buenas madrugadas");
-            Tipos02 tipos02 = new Tipos02();
+            //Tipos02 tipos02 = new Tipos02();
 
+            //Console.ReadKey();
+            //vocales vocales= new vocales();
+            ListarNumero01 listar= new ListarNumero01();
             Console.ReadKey();
         }
     }
