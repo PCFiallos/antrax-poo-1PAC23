@@ -27,7 +27,7 @@ namespace basico.estructuras_control
             }
 
             Console.WriteLine("desea continuar");
-            bool continuar = false;
+           
         }
     }
 }
