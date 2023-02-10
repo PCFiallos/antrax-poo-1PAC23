@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="arreglos\arreglo03.cs" />
+    <Compile Include="arreglos\Arrleglo02.cs" />
+    <Compile Include="arreglos\Arrleglo01cs.cs" />
     <Compile Include="estructuras-control\ListarNumero01.cs" />
     <Compile Include="estructuras-control\vocales.cs" />
     <Compile Include="Program.cs" />

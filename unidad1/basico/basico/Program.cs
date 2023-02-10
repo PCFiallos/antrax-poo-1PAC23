@@ -1,4 +1,5 @@
-﻿using basico.estructuras_control;
+﻿using basico.arreglos;
+using basico.estructuras_control;
 using basico.tipo_datos;
 using System;
 using System.Collections.Generic;
@@ -21,7 +22,11 @@ namespace basico
 
             //Console.ReadKey();
             //vocales vocales= new vocales();
-            ListarNumero01 listar= new ListarNumero01();
+          
+            // ListarNumero01 listar= new ListarNumero01();
+           // Arrleglo01cs arrleglo01cs = new Arrleglo01cs();
+          // Arrleglo02 arrleglo02= new Arrleglo02(); 
+            arreglo03 arreglo03= new arreglo03();
             Console.ReadKey();
         }
     }
