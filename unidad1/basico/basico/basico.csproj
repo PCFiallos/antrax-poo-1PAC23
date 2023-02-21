@@ -46,6 +46,17 @@
     <Compile Include="arreglos\arreglo03.cs" />
     <Compile Include="arreglos\Arrleglo02.cs" />
     <Compile Include="arreglos\Arrleglo01cs.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio01CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio02CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio03CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio04CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio05CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio06CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio07CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio08CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio09CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio10CF.cs" />
+    <Compile Include="EjerciciosSemana2CesarF\Ejercicio11CF.cs" />
     <Compile Include="estructuras-control\ListarNumero01.cs" />
     <Compile Include="estructuras-control\vocales.cs" />
     <Compile Include="Program.cs" />
